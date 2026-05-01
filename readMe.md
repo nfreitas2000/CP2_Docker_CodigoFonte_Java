@@ -1,4 +1,4 @@
-# 🧱 How-to: Docker + Oracle XE + Quarkus
+# How-to: Docker + Oracle XE + Quarkus
 
 Guia passo a passo para subir o ambiente completo no linux (banco + API).
 
